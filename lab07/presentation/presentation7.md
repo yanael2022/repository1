@@ -102,7 +102,7 @@ $$
 
 ![случай 2](image7.1/7.2.PNG)
 
-</div>
+Максимальное значение n достигается при time=0.016.</div>
 
   <div style="page-break-after: always;">
 
